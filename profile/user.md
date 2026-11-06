@@ -2,8 +2,6 @@
 
 ## 基本信息
 - 智能体名称：MY-AIO
-- 位置：浙江宁波（活动范围：余姚、台州温岭）
-- 家庭：有一个 8 岁男孩
 - 设备：iPhone 14 Max、Apple Watch S7、M1 MacBook Pro 14、iPad A2270
 - 平台：主要用 Mac 端和 iOS 端豆包 App
 - 实物小智硬件：立创・实战派 ESP32-S3 开发板 
